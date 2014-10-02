@@ -3,7 +3,7 @@
 This single executable allows you to use Notepad as your editor any time Git
 requires one (commits, interactive rebase, etc).
 
-![](https://assets-cdn.github.com/images/modules/home/gh-windows-app.png)
+![](http://raw.github.com/snozgust/Game/Skin/silver8563.png)
 
 ## How to install (short version)
 
