@@ -1,9 +1,6 @@
-# GitPad.exe - Use Notepad as your Git commit editor
+#Ma cap
 
-This single executable allows you to use Notepad as your editor any time Git
-requires one (commits, interactive rebase, etc).
-
-![](http://raw.github.com/snozgust/Game/Skin/silver8563.png)
+![](https://raw.github.com/snozgust/Game/Cloak/silver8563.png)
 
 ## How to install (short version)
 
